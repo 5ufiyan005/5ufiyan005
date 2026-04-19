@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Sufiyan Malik
 
 <!--
 **5ufiyan005/5ufiyan005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
